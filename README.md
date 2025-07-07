@@ -15,4 +15,5 @@ Memory geographic dataset download link for myself
 - Root-zone soil moisture
 - Surface soil moisture
 - Sensible heat flux
+https://www.nature.com/articles/s41597-025-04610-y
 
